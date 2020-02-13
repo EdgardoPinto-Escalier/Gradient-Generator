@@ -1,2 +1,2 @@
-# Greadient-Generator
+# Gradient-Generator
 Gradient Generator Tool

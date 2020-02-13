@@ -1,0 +1,9 @@
+body {
+  font: Arial;
+  color: #ccc;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: .5em;
+  top: 20%;
+  background: linear-gradient(to right, red, yellow);
+}
